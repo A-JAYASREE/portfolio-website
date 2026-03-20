@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    background: plum;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
